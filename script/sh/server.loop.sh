@@ -1,0 +1,1 @@
+/mnt/sda1/folder/save/script/sh/server.loop.sh
